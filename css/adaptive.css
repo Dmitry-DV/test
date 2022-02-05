@@ -1,0 +1,1598 @@
+@media screen and (max-width: 1700px) { 
+	#benefits #benefits-container {
+		justify-content: space-evenly;
+	}
+
+}
+
+@media screen and (max-width: 1550px) {
+
+	#header-container {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	#descriptions {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	#service {
+		padding-right: 30px;
+		padding-left: 30px;
+	}
+
+	#price {
+		padding-right: 30px;
+		padding-left: 30px;
+	}
+
+	#gallery {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	#benefits {
+		padding-right: 30px;
+		padding-left: 30px;
+	}
+
+	#benefits #benefits-container .benefits-element {
+		width: 420px;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	#contact {
+		padding-right: 30px;
+		padding-left: 30px;
+	}
+
+	#reservation #reservation-container {
+		width: 500px;
+		padding-bottom: 50px;
+	}
+
+	#reservation-container #reservation-form input {
+		width: 312px;
+		height: 67px;
+	}
+
+
+	#reservation-container #reservation-form-button button {
+		margin-top: 25px;
+		font-size: 24px;
+	}
+
+	#reservation-container #reservation-form input::placeholder {
+		font-size: 20px;
+	}
+}
+
+@media screen and (max-width: 1440px) {
+
+	#benefits #benefits-container {
+		padding-right: 30px;
+		padding-left: 30px;
+	}
+
+	#benefits #benefits-container .benefits-element {
+		width: 400px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-logo-img img {
+		width: 50px;
+		height: 50px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-logo-img {
+		width: 75px;
+		height: 75px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-title {
+		font-size: 24px;
+	}
+
+	.benefits-element .benefits-content li {
+		font-size: 18px;
+		line-height: 37px;
+	}
+
+}
+
+@media screen and (max-width: 1350px) {
+
+	#header-container {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	#header #header-link a {
+		font-size: 16px;
+	}
+
+	#header #header-contact {
+		width: 270px;
+	}
+
+	#header #header-contact-room a {
+		font-size: 18px;
+	}
+
+	#header #header-contact-time {
+		width: 49px;
+    	height: 47px;
+    	font-size: 16px;
+	}
+
+	#main-container #main-info h1 {
+		font-size: 39px;
+	}
+
+	#main-container .main-info-item img {
+		width: 43px;
+    	height: 44px;
+	}
+
+	#main-container .main-info-item {
+		font-size: 22px;
+	}
+
+	#main-container #main-active button {
+		width: 380px;
+    	height: 75px;
+    	font-size: 27px;
+	}
+
+	#aside-container .aside-info-size {
+		width: 174px;
+	}
+
+	#aside-container .aside-info:nth-child(3) {
+		width: 360px;
+	}
+
+	#aside-container .aside-info {
+		font-size: 22px;
+	}
+
+	#aside-container .aside-info span {
+		font-size: 67px;
+	}
+
+	#service #service-content #service-link .category {
+		font-size: 20px;
+	}
+
+	#service #service-content .service-slick .service-info {
+		font-size: 18px;
+	}
+
+	#service #service-content #service-contact #service-contact-text {
+		font-size: 22px;
+	}
+
+	#benefits #benefits-container {
+		padding-right: 0;
+		padding-left: 0;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-logo-img {
+		width: 70px;
+		height: 70px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-logo-img img {
+		width: 45px;
+		height: 45px;
+	}
+
+	.benefits-element .benefits-content li {
+		font-size: 17px;
+		line-height: 35px;
+	}
+}
+
+@media screen and (max-width: 1290px) {
+
+	#main-container #main-info h1 {
+		font-size: 37px;
+	}
+
+	#main-container {
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+
+	#main-container .main-info-item {
+		font-size: 21px;
+	}
+
+	#main-container #main-active button {
+		width: 370px;
+    	height: 70px;
+	}
+
+	#descriptions h2 {
+		font-size: 24px;
+	}
+
+	#descriptions #descriptions-content .description {
+		height: 170px;
+	}
+
+	#descriptions #descriptions-content .description p {
+		font-size: 18px;
+	}
+
+	#feedback-container h2 {
+		font-size: 20px;
+		margin-bottom: 29px;
+	}
+
+	#aside {
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+
+	#aside-container .aside-info span {
+		font-size: 65px;
+	}
+
+	#service #service-title h2 {
+		font-size: 24px;
+	}
+
+	#service #service-content .service-slick .service-item {
+    	width: 250.33px;
+    	height: 330.96px;
+    	margin-left: 10px;
+    	margin-right: 10px;
+	}
+
+	#service #service-content .service-slick .service-info {
+    	width: 230.64px;
+    	height: 86.75px;
+    	font-size: 16px;
+    }
+
+    .slick-dots li button:before {
+    	font-size: 10px;
+    }
+
+    .slick-dots {
+    	bottom: -40px;
+    }
+
+	#price #price-title h2 {
+		font-size: 24px;
+	}
+
+	#price #price-content .price-item {
+    	width: 230px;
+    	height: 320px;
+	}
+
+	#price #price-content {
+		max-width: 850px;
+	}
+
+	#price #price-content .price-item .price-item-img {
+    	width: 102px;
+    	height: 103px;
+    }
+
+    #price #price-content .price-item .price-item-title {
+    	font-size: 21px;
+    }
+
+    #price #price-content .price-item .price-item-text {
+    	font-size: 18px;
+    }
+
+    #gallery #gallery-title h2 {
+    	font-size: 24px;
+    }
+
+    #gallery .slick-slider {
+    	width: 95%;
+    }
+
+   	#gallery .slick-prev {
+   		left: -20px;
+   	}
+
+   	#gallery .slick-next {
+   		right: -20px;
+   	}
+
+   	#benefits #benefits-title h2 {
+   		font-size: 24px;
+   	}
+
+   	#benefits #benefits-container .benefits-element {
+   		width: 368px;
+   	}
+
+    #contact #contact-title h2 {
+    	font-size: 24px;
+    }
+
+    #footer #footer-container #footer-menu a {
+    	font-size: 16px;
+    }
+
+    #footer #footer-container #footer-contact a {
+    	font-size: 20px;
+    }
+
+    #reservation-container #reservation-form input {
+    	width: 307px;
+    	height: 59px;
+    }
+
+    #reservation-container #reservation-form-button button {
+    	font-size: 22px;
+    	margin-top: 15px;
+    	width: 330px;
+    	height: 59px;
+    }
+
+    #reservation #reservation-container {
+    	padding-bottom: 35px;
+    	width: 470px;
+    }
+}
+
+@media screen and (max-width: 1229px) {
+
+	hr {
+		height: 4px;
+	}
+
+	#header-container {
+    	padding-right: 7px;
+    	padding-left: 7px;
+    }
+
+    #header #header-link {
+    	width: 620px;
+    }
+
+ 	#main-container {
+ 		padding-left: 20px;
+    	padding-right: 30px;
+ 	}
+
+ 	#main-container #main-info h1 {
+ 		font-size: 34px;
+ 		max-width: 590px;
+ 	}
+
+ 	#main-container .main-info-item {
+ 		font-size: 20px;
+ 	}
+
+ 	#main-container .main-info-item img {
+    	width: 40px;
+    	height: 41px;
+	}
+
+	#main-container #main-active button {
+		font-size: 24px;
+	}
+
+	#main-container #main-active button {
+   		width: 350px;
+   		height: 65px;
+	}
+
+	#descriptions h2 {
+		font-size: 22px;
+		margin-bottom: 20px;
+	}
+
+	#descriptions {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	#descriptions #descriptions-content .description:first-child{
+		max-width: 300px;
+	}
+
+	#descriptions #descriptions-content .description {
+		max-width: 300px;
+	}
+
+	#descriptions #descriptions-content .description:last-child {
+		max-width: 300px;
+	}
+
+	#descriptions #descriptions-content .description p {
+		text-align: center;
+		font-size: 17px;
+	}
+
+	#feedback-container h2 {
+		font-size: 19px;
+	}
+
+	.button {
+		width: 285px;
+    	height: 46px;
+	}
+
+	.button a {
+		font-size: 20px;
+	}
+
+	#aside-container .aside-info span {
+		font-size: 55px;
+	}
+
+	#aside-container .aside-info {
+		font-size: 20px;
+	}
+
+	#service #service-title h2 {
+		font-size: 22px;
+		margin-bottom: 20px;
+	}
+
+	#aside-container .aside-info:nth-child(3) {
+		width: 319px;
+	}
+
+	#aside-container .aside-info-size {
+		width: 156px;
+	}
+
+	#aside-container .aside-info:nth-child(1) {
+		width: 389px;
+	}
+
+	#service {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	#service #service-content #service-link .category {
+		font-size: 18px;
+	}
+
+	.category img {
+		width: 35px;
+	}
+
+	#service #service-content #service-link .category {
+		width: 220.84px;
+    	height: 54.33px;
+	}
+
+	#service #service-content #service-link {
+		max-width: 760px;
+	}
+
+	#service #service-content #service-contact #service-contact-text {
+		font-size: 20px;
+	}
+
+	#service #service-content #service-contact {
+		justify-content: space-evenly;
+	}
+
+	#price {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	#price #price-content .price-item .price-item-img {
+    	width: 95px;
+    	height: 95px;
+	}
+
+	#price #price-content .price-item .price-item-title {
+		font-size: 20px;
+		max-width: 185px;
+	}
+
+	#price #price-content .price-item {
+    	width: 217px;
+    	height: 285px;
+	}
+
+	#price #price-content .price-item .price-item-text {
+		font-family: Montserrat700, sans-serif;
+		width: 170px;
+	}
+
+	#gallery {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	#gallery #gallery-slider {
+		padding-top: 30px;
+	}
+
+	#gallery #gallery-title h2 {
+		font-size: 22px;
+		margin-bottom: 20px;
+	}
+
+	#gallery #gallery-slider .gallery-slider-img {
+		margin-left: 10px;
+		margin-right: 10px;
+		height: 320px;
+	}
+
+	#benefits {
+		padding-right: 20px;
+		padding-left: 20px;
+	}
+
+	#benefits #benefits-container {
+		padding-top: 35px;
+	}
+
+	#benefits #benefits-title h2 {
+		font-size: 22px;
+		margin-bottom: 20px;
+	}
+
+	.benefits-element .benefits-content {
+		border-left: 4px solid #FF7A00;
+	}
+
+	.benefits-element .benefits-content ul {
+		margin: 0 0 0 -10px;
+	}
+
+	#benefits #benefits-container .benefits-element {
+		width: 358px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-logo-img img {
+		width: 40px;
+		height: 40px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-logo-img {
+		width: 65px;
+		height: 65px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-title {
+		font-size: 22px;
+	}
+
+	#contact {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	#contact #contact-title h2 {
+		font-size: 22px;
+		margin-bottom: 20px;
+	}
+
+	#contact #contact-content {
+		justify-content: space-around;
+	}
+
+	#contact #contact-content .contact-link img {
+		width: 32px;
+		height: 32px;
+		margin-right: 9px;
+	}
+
+	#contact #contact-content .contact-link .img-size {
+		width: 36px;
+		height: 36px;
+	}
+
+	#contact #contact-content .contact-link a {
+		font-size: 16px;
+	}
+
+	#price #price-title h2 {
+		font-size: 22px;
+		margin-bottom: 20px;
+	}
+
+	#reservation #reservation-container {
+		width: 450px;
+		padding: 25px 20px 35px 30px;
+	}
+
+	#reservation-container #reservation-form input::placeholder {
+		font-size: 18px;
+	}
+
+	#reservation-container #reservation-form input {
+		    width: 280px;
+    		height: 56px;
+	}
+
+	#reservation-container #reservation-form-button button {
+		font-size: 20px;
+		margin-top: 0;
+	}
+
+	a #scroll-top {
+		right: 3%;
+	}
+}
+
+
+@media screen and (max-width: 1150px) { 
+
+	#header #header-contact-room a {
+		font-size: 16px;
+	}
+
+	#header #header-contact {
+		width: 245px;
+	}
+
+	#header #header-logo a div span {
+		font-size: 12px;
+	}
+
+	#header #header-logo a {
+		font-size: 17px;
+	}
+
+	#header #header-logo a img {
+    	width: 47px;
+    	height: 41px;
+	}
+
+	#header #header-link {
+		width: 550px;
+	}
+}
+
+@media screen and (max-width: 1023px) {
+
+	#header #header-logo a div {
+		display: none;
+	}
+
+	#main-container #main-info h1 {
+		font-size: 28px;
+	}
+
+	#main-container {
+		padding-right: 20px;
+	}
+
+	#main-container .main-info-item img {
+    	width: 35px;
+    	height: 36px;
+	}
+
+	#main-container .main-info-item {
+		font-size: 18px;
+		max-width: 370px;
+	}
+
+	#main-container #main-active button {
+		font-size: 22px;
+		width: 321px;
+    	height: 60px;
+	}
+
+	#descriptions #descriptions-content {
+		flex-wrap: wrap;
+	}
+
+	#feedback-container h2 {
+		font-size: 17px;
+	}
+
+	#feedback {
+		padding: 20px;
+	}
+
+	#aside {
+		padding-right: 20px;
+		padding-left: 20px;
+	}
+
+	#aside-container .aside-info span {
+		font-size: 50px;
+	}
+
+	#aside-container .aside-info {
+		font-size: 18px;
+	}
+
+	#aside-container .aside-info:nth-child(3) {
+		width: 288px;
+	}
+
+	#aside-container .aside-info-size {
+		width: 140px;
+	}
+
+	#aside-container .aside-info:nth-child(1) {
+		width: 351px;
+	}
+
+	#service #service-content #service-contact #service-contact-text {
+		font-size: 18px;
+	}
+
+	#price #price-content .price-item .price-item-img {
+   		width: 85px;
+   	 	height: 85px;
+	}
+
+	.button {
+    	width: 270px;
+    	height: 40px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-logo-img img {
+		width: 35px;
+		height: 35px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-logo-img {
+		width: 60px;
+		height: 60px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-title {
+		font-size: 21px;
+	}
+
+	.benefits-element .benefits-content li {
+		font-size: 16px;
+		line-height: 32px;
+	}
+
+	#benefits #benefits-container .benefits-element {
+		width: 300px;
+	}
+
+	#contact #contact-content{
+		max-width: 450px;
+		flex-wrap: wrap;
+	}
+
+	#contact #contact-content #contact-forms #form1 {
+		margin-bottom: 30px;
+	}
+
+	#contact {
+		padding-bottom: 30px;
+	}
+
+	#footer #footer-container {
+		justify-content: space-around;
+	}
+
+	#reservation #reservation-container {
+		width: 415px;
+	}
+
+	#reservation-container #reservation-form input {
+		width: 265px;
+    	height: 53px;
+	}
+
+	#reservation-container #reservation-form input::placeholder {
+		font-size: 16px;
+	}
+
+	#reservation-container #reservation-form-button button {
+		font-size: 18px;
+		width: 285px;
+    	height: 53px;
+	}
+}
+
+
+@media screen and (max-width: 900px) { 
+
+	#header #header-logo a div {
+		display: block;
+	}
+
+	#header-container {
+		padding: 10px 20px;
+		justify-content: space-between;
+	}
+
+	#header #header-link {
+		display: none;
+	}
+
+	#burger {
+		display: block;
+	}
+
+    #header.menu-open #header-link {
+        display: flex;
+    }
+
+	#header #header-link {
+		position: fixed;
+    	background: white;
+    	z-index: 150;
+    	width: 100%;
+    	text-align: center;
+    	padding: 0 0 10px;
+    	display: none;
+    	flex-wrap: wrap;
+    	justify-content: space-evenly;
+    	align-items: center;
+	    top: 60px;
+	    max-width: 100%;
+	    left: 0;
+	}
+
+	#header #header-link a {
+		color: black;
+		line-height: 45px;
+	}
+
+	.benefits-element .benefits-content {
+    	border-left: 3px solid #FF7A00;
+    }
+
+    .benefits-element .benefits-header .benefits-logo .benefits-logo-img {
+    	width: 55px;
+    	height: 55px;
+    }
+
+    .benefits-element .benefits-header .benefits-logo .benefits-logo-img img {
+    	width: 30px;
+    	height: 30px;
+    }
+
+    .benefits-element .benefits-header .benefits-logo .benefits-title {
+    	font-size: 19px;
+    }
+
+    .benefits-element .benefits-content ul {
+    	margin-left: -12px;
+    }
+
+    .benefits-element .benefits-content li {
+    	font-size: 15px;
+    	line-height: 26px;
+	}
+
+	#benefits #benefits-container .benefits-element {
+		width: 220px;
+	}
+
+    #benefits #benefits-container {
+    	padding-top: 30px;
+    }
+}
+
+
+@media screen and (max-width: 767px) { 
+
+	#main-container {
+		padding-right: 10px;
+		padding-left: 10px;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	#main {
+		background-position: 40%;
+	}
+
+	#descriptions {
+		padding-right: 10px;
+		padding-left: 10px;
+		padding: 20px;
+	}
+
+	#descriptions #descriptions-content .description {
+		margin-bottom: 20px;
+	}
+
+	#aside {
+		padding: 10px;
+	}
+
+	#aside-container .aside-info {
+		max-width: 400px;
+		margin-bottom: 7px;
+		font-size: 16px;
+	}
+
+	#aside-container .aside-info:last-child {
+		margin-bottom: 0;
+	}
+
+	#aside-container {
+		flex-wrap: wrap;
+		flex-direction: column;
+	}
+
+	#aside-container .aside-info span {
+		font-size: 38px;
+		margin-right: 10px;
+		margin-left: 10px;
+	}
+
+	#aside-container .aside-info:nth-child(3) {
+		width: 262px;
+	}
+
+	hr {
+		height: 3px;
+	}
+
+	#descriptions h2 {
+		margin-bottom: 10px;
+	}
+    
+    #service #service-title h2 {
+    	margin-bottom: 10px;
+    }
+
+    #service #service-content #service-link {
+    	flex-wrap: wrap;
+    	justify-content: center;
+    }
+
+    #service #service-content #service-link .category {
+    	margin-bottom: 10px;
+    	margin-left: 10px;
+    	margin-right: 10px;
+    }
+
+    #service #service-content #service-link {
+    	padding-top: 20px;
+    	padding-bottom: 10px;
+    }
+
+    #service #service-content .service-slick .service-item {
+    	width: 242.33px;
+    	height: 301.96px;
+    }
+
+    #service #service-content .service-slick .service-info {
+    	width: 215.64px;
+    	height: 72.75px;
+    	padding: 20px;
+   		box-sizing: border-box;
+   		font-size: 14px;
+    }
+
+    #service #service-content #service-contact {
+    	flex-wrap: wrap;
+    }
+
+    #service #service-content #service-contact #service-contact-text {
+    	text-align: center;
+    	margin-bottom: 20px;
+    }
+
+
+    #price #price-title h2 {
+    	margin-bottom: 10px;
+    }
+
+    #price #price-content {
+    	justify-content: center;
+    }
+
+    #price #price-content .price-item {
+    	margin-bottom: 35px;
+    	margin-left: 15px;
+    	margin-right: 15px;
+    }
+
+    #price #price-content .price-item .price-item-title {
+		height: auto;
+	}
+
+    #price #price-content .price-item:nth-child(4) {
+    	margin-bottom: 35px;
+    }
+
+    #price #price-content .price-item:nth-child(5) {
+    	margin-bottom: 35px;
+    }
+
+    #price #price-content .price-item:nth-child(6) {
+    	margin-bottom: 35px;
+    }
+
+    #price #price-content {
+    	margin-bottom: 15px;
+    }
+
+    #gallery #gallery-title h2 {
+    	margin-bottom: 10px;
+    }
+
+    #benefits #benefits-title h2 {
+    	margin-bottom: 10px;
+    }
+
+    #contact #contact-content #contact-forms #form1 .form-input input {
+    	width: 200px;
+    }
+
+    #contact #contact-content #contact-forms #form1 .form-input {
+    	margin-bottom: 10px;
+    }
+
+    #contact #contact-content #contact-forms #contact-forms-active {
+    	margin-bottom: 10px;
+    	margin-top: 10px;
+    }
+
+    #contact #contact-content #contact-forms #contact-forms-active button {
+    	font-size: 14px;
+    }
+
+    #contact #contact-title h2 {
+    	margin-bottom: 10px;
+    }
+
+    #contact #contact-content #contact-forms #form1 {
+    	flex-wrap: wrap;
+    	max-width: 250px;
+    	margin-left: 50px;
+    	margin-right: 50px;
+    	justify-content: center;
+    	align-items: center;
+    }
+
+    #contact #contact-content {
+    	max-width: 750px;
+    }
+
+    #footer #footer-container #footer-menu a {
+    	font-size: 15px;
+    }
+
+    #footer #footer-container #footer-contact a {
+    	font-size: 18px;
+    }
+
+    #reservation-container #reservation-form-button button {
+    	display: block;
+    	margin: 0;
+    }
+
+    #reservation-container #reservation-form #form2 {
+    	display: flex;
+    	flex-direction: column;
+    	justify-content: center;
+    	align-items: center;
+    	width: 100%;
+    }
+
+    #reservation #reservation-container {
+    	padding: 20px;
+    	width: 320px;
+    }
+
+    #reservation-container #reservation-form input {
+    	font-size: 14px;
+    	width: 243px;
+    	height: 45px;
+    }
+
+    #reservation-container #reservation-form input::placeholder {
+		font-size: 14px;
+	} 
+
+	#reservation-container #reservation-form-button button {
+    	font-size: 16px;
+    	width: 265px;
+    	height: 47px;
+	}
+
+	a #scroll-top {
+		bottom: 3%;
+		width: 40px;
+		height: 40px;
+	}
+}
+
+
+@media screen and (max-width: 750px) { 
+	#benefits #benefits-container {
+		flex-wrap: wrap;
+	}
+
+	#benefits #benefits-container .benefits-element {
+		width: 550px;
+		margin-bottom: 40px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo {
+		margin-bottom: 10px;
+	}
+
+	#benefits #benefits-container {
+		padding-bottom: 0;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-logo-img img {
+		width: 35px;
+		height: 35px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-logo-img {
+		width: 60px;
+		height: 60px;
+	}
+
+	.benefits-element .benefits-content li {
+    	font-size: 18px;
+    	line-height: 30px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-title {
+		font-size: 22px;
+	}
+}
+
+@media screen and (max-width: 550px) { 
+
+	#header #header-link {
+		flex-direction: column;
+	}
+
+	#header #header-logo a div {
+		display: none;
+	}
+
+	#header #header-logo a img {
+    	width: 52px;
+    	height: 46px;
+	}
+
+	#burger {
+		margin-left: 0;
+	}
+
+}
+
+
+@media screen and (max-width: 424px) { 
+
+	#header-container {
+		justify-content: space-between;
+		padding: 10px 10px
+	}
+
+	#header #header-logo a img {
+    	width: 47px;
+    	height: 41px;
+    }
+
+	#header #header-contact {
+		width: 210px;
+	}
+
+	#header #header-contact #header-contact-room {
+		font-size: 15px;
+	}
+
+	#header #header-contact-room img {
+		width: 25px;
+		height: 25px;
+	}
+
+	#header #header-contact-room a {
+		font-size: 14px;
+		letter-spacing: 0;
+	}
+
+	#header #header-contact-time {
+		width: 46px;
+    	height: 44px;
+	}
+
+	#header #header-link a {
+		font-size: 15px;
+	}
+
+	#main-container #main-info h1 {
+		font-size: 25px;
+	}
+
+	#main-container {
+		padding-top: 118px;
+	}
+
+	#main-container .main-info-item img {
+		width: 30px;
+		height: 30px;
+	}
+
+	#main-container #main-info-items {
+		margin-top: 50px;
+	}
+
+	#main-container .main-info-item {
+		font-size: 16px;
+	}
+
+	#main-container {
+		justify-content: center;
+	}
+
+	#main-container #main-active button {
+		font-size: 18px;
+		width: 259px;
+   		height: 49px; 
+	}
+
+	#descriptions {
+		padding-top: 15px;
+		padding-bottom: 15px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	#descriptions h2 {
+		font-size: 20px;
+	}
+
+	#descriptions #descriptions-content .description img {
+		width: 40px;
+		height: 40px;
+	}
+
+	#descriptions #descriptions-content .description p {
+		margin-top: 20px;
+	}
+
+	#descriptions #descriptions-content .description p {
+		font-size: 16px;
+	}
+
+	#feedback-container h2 {
+		font-size: 14px;
+	}
+
+	.button {
+		width: 236px;
+    	height: 37px;
+	}
+
+	.button a {
+		font-size: 18px;
+	}
+
+	#aside-container .aside-info span {
+		font-size: 33px;
+	}
+
+	#aside-container .aside-info {
+		font-size: 15px;
+	}
+
+	#aside-container .aside-info:nth-child(3) {
+		width: 241px;
+	}
+
+	#service {
+		padding-right: 10px;
+		padding-left: 10px;
+		padding-bottom: 15px;
+		padding-top: 15px;
+	}
+
+	#service #service-title h2 {
+		font-size: 20px;
+	}
+
+	#service #service-content #service-link .category {
+		width: 198.84px;
+    	height: 45.33px;
+	}
+
+	#service #service-content .service-slick .service-item {
+		width: 212.33px;
+    	height: 273.96px;
+    	margin-right: 5px;
+    	margin-left: 5px;
+	}
+
+	#service #service-content .service-slick .service-info {
+		width: 195.64px;
+	}
+
+	#service #service-content #service-contact #service-contact-text {
+		font-size: 16px;
+	}
+
+	#price {
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+
+	#price #price-title h2 {
+		font-size: 20px;
+	}
+
+	#price #price-content {
+		margin: 36px auto;
+	}
+
+	#price #price-content .price-item .price-item-img {
+		width: 80px;
+		height: 80px;
+	}
+
+	#price #price-content .price-item {
+		padding-right: 15px;
+		padding-left: 15px;
+		height: 280px;
+	}
+
+	#price #price-content .price-item .price-item-title {
+		font-size: 18px;
+	}
+
+	#price #price-content .price-item:nth-child(6) {
+		margin-bottom: 0;
+	}
+
+	#gallery #gallery-title h2 {
+		font-size: 20px;
+	}
+
+
+	#gallery {
+		padding-right: 10px;
+		padding-left: 10px;
+		width: 90%;
+	}
+
+	#benefits {
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+
+	#benefits #benefits-title h2 {
+		font-size: 20px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-title {
+		font-size: 20px;
+	}
+
+	.benefits-element .benefits-content li {
+    	font-size: 16px;
+    	line-height: 28px;
+	}
+
+	#contact {
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+
+	#contact #contact-title h2 {
+		font-size: 20px;
+	}
+
+	#contact #contact-content {
+		padding-top: 29px;
+	}
+
+	#contact #contact-content .contact-link a {
+		font-size: 15px;
+	}
+
+	#footer #footer-container #footer-contact a {
+		font-size: 16px;
+	}
+
+}
+
+
+@media screen and (max-width: 374px) {
+
+	#header #header-link {
+		top: 54px;
+	}
+
+	#header-container {
+		padding: 10px 5px;
+	}
+
+	#header #header-logo {
+		align-items: center;
+	}
+
+	#header #header-contact-time {
+		font-size: 14px;
+	}
+
+	#header #header-contact-time {
+    	width: 43px;
+    	height: 41px;
+    }
+
+    #header #header-logo a img {
+    	width: 44px;
+    	height: 39px;
+	} 
+
+	#burger {
+		font-size: 35px;
+	}
+
+	#main-container {
+		padding-top: 100px;
+	}
+
+	#main-container #main-info h1 {
+		font-size: 22px;
+	}
+
+	#main-container .main-info-item img {
+		width: 25px;
+		height: 25px;
+	}
+
+	#main-container #main-info-items {
+		margin-top: 40px;
+	}
+
+	#main-container .main-info-item {
+		font-size: 15px;
+	}
+
+	#main-container #main-active button {
+		font-size: 16px;
+		width: 241px;
+		height: 46px;
+	}
+
+	#descriptions h2 {
+		font-size: 18px;
+	}
+
+	#descriptions #descriptions-content .description img {
+		width: 35px;
+		height: 35px;
+	}
+
+	#descriptions #descriptions-content .description p {
+		margin-top: 0;
+		font-size: 14px;
+		max-width: 280px;
+	}
+
+	#feedback {
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+
+	#feedback-container h2 {
+		margin-bottom: 17px;
+		font-size: 14px;
+	}
+
+	.button {
+		width: 200px;
+	}
+
+	.button a {
+		font-size: 16px;
+	}
+
+	#aside-container .aside-info:nth-child(1) {
+		width: 300px;
+	}
+
+	#service #service-title h2 {
+		font-size: 18px;
+	}
+
+	#service #service-content #service-link .category {
+		font-size: 16px;
+	}
+
+	#service #service-content #service-contact #service-contact-text {
+		font-size: 14px;
+	}
+
+	#price #price-title h2 {
+		font-size: 18px;
+	}
+
+	#price #price-content .price-item .price-item-title {
+		font-size: 16px;
+	}
+
+	#price #price-content .price-item .price-item-text {
+		font-size: 16px;
+	}
+
+	#price #price-content .price-item {
+		width: 206px;
+		height: 271px;
+	}
+
+	#price #price-content .price-item .price-item-img {
+		width: 75px;
+		height: 75px;
+	}
+
+	#gallery #gallery-title h2 {
+		font-size: 18px;
+	}
+
+	#benefits #benefits-title h2 {
+		font-size: 18px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-title {
+		font-size: 18px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-logo-img img {
+   		width: 30px;
+    	height: 30px;
+	}
+
+	.benefits-element .benefits-header .benefits-logo .benefits-logo-img {
+    	width: 55px;
+    	height: 55px;
+	}
+
+	.benefits-element .benefits-content li {
+		font-size: 14px;
+	}
+
+	#contact #contact-title h2 {
+		font-size: 17px;
+	}
+
+
+	#contact #contact-content .contact-link a {
+		font-size: 14px;
+	}
+
+	#contact #contact-content #contact-forms #form1 {
+		margin-right: 30px;
+		margin-left: 30px;
+	}
+
+	#reservation #reservation-container {
+		width: 300px;
+		padding: 15px;
+	}
+
+	a #scroll-top {
+		width: 35px;
+		height: 35px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
